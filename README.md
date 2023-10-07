@@ -29,6 +29,10 @@ This is a simple Python program that simulates a basic banking system. Users can
 
 Here's an example of how to use the banking system:
 
-1. Create a bank account with an initial balance of $100.
+1. Create a bank account with an initial balance (in the code it's set to $1000).
+
+```python
+acc = MyBank(1000)
+```
 
 2. Follow the on-screen prompts to deposit, withdraw, or exit the banking system.
