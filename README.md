@@ -3,6 +3,8 @@
 This is a simple Python program that simulates a basic banking system. Users can deposit money, withdraw money, and view their account balance. All transactions are logged in a "transactions.txt" file.
 
 **Demo:** [View the Demo on Google Colab](https://colab.research.google.com/drive/16Ay-RMIagrjMXZQAYAq20kZrFnW1EOiI?usp=sharing)
+![image](https://github.com/yusup-rd/python-banking-system/assets/71926209/59d580b5-98bf-4b32-a750-04ef6f370eef)
+
 
 ## Table of Contents
 
